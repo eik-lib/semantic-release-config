@@ -25,8 +25,8 @@ npm install --save-dev semantic-release @eik/semantic-release-config
 
 In the [semantic-release configuration file](https://github.com/semantic-release/semantic-release/blob/master/docs/usage/configuration.md#configuration):
 
-```json
-{
-	"extends": "@eik/semantic-release-config"
-}
+```js
+export default {
+	extends: "@eik/semantic-release-config",
+};
 ```
