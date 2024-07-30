@@ -25,7 +25,14 @@
   "homepage": "https://github.com/eik-lib/semantic-release-config#readme",
   "author": "",
   "license": "MIT",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "npm run lint -- --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "devDependencies": {
+    "@eik/eslint-config": "1.0.0",
+    "eslint": "9.8.0",
     "semantic-release": "24.0.0"
   },
   "dependencies": {
