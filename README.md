@@ -1,0 +1,32 @@
+# @eik/semantic-release-config
+
+This is a [semantic-release](https://github.com/semantic-release/semantic-release) config to publish Eik modules meant for internal use in the [eik-lib organisation](https://github.com/eik-lib).
+
+This configuration is not related to our [semantic release plugin](https://github.com/eik-lib/semantic-release#readme).
+
+## Plugins
+
+This shareable configuration uses the following plugins:
+
+- [`@semantic-release/commit-analyzer`](https://github.com/semantic-release/commit-analyzer)
+- [`@semantic-release/release-notes-generator`](https://github.com/semantic-release/release-notes-generator)
+- [`@semantic-release/changelog`](https://github.com/semantic-release/changelog)
+- [`@semantic-release/npm`](https://github.com/semantic-release/npm)
+- [`@semantic-release/github`](https://github.com/semantic-release/github)
+- [`@semantic-release/git`](https://github.com/semantic-release/git)
+
+## Install
+
+```bash
+npm install --save-dev semantic-release @eik/semantic-release-config
+```
+
+## Usage
+
+In the [semantic-release configuration file](https://github.com/semantic-release/semantic-release/blob/master/docs/usage/configuration.md#configuration):
+
+```json
+{
+	"extends": "@eik/semantic-release-config"
+}
+```
