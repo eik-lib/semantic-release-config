@@ -26,15 +26,16 @@
   "author": "",
   "license": "MIT",
   "scripts": {
+    "clean": "rimraf node_modules",
     "lint": "eslint .",
-    "lint:fix": "npm run lint -- --fix",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint:fix": "npm run lint -- --fix"
   },
   "devDependencies": {
     "@eik/eslint-config": "1.0.0",
     "@eik/prettier-config": "1.0.1",
     "eslint": "9.8.0",
     "prettier": "3.3.3",
+    "rimraf": "6.0.1",
     "semantic-release": "24.0.0"
   },
   "dependencies": {
