@@ -30,3 +30,20 @@ export default {
 	extends: "@eik/semantic-release-config",
 };
 ```
+
+If you add your own plugins you need to include the ones from the shared config.
+
+```js
+import config from '@eik/semantic-release-config';
+
+export default {
+  extends: '@eik/semantic-release-config',
+  plugins: [
+    ...config.plugins,
+    [
+      'extra-plugin',
+      { pluginOpts },
+    ],
+  ],
+};
+```
