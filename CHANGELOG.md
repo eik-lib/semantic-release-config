@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/eik-lib/semantic-release-config/compare/v1.0.7...v1.0.8) (2025-09-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([#25](https://github.com/eik-lib/semantic-release-config/issues/25)) ([497f65f](https://github.com/eik-lib/semantic-release-config/commit/497f65fd58a90c3c9187987917c2d7283bd8db68))
+
 ## [1.0.7](https://github.com/eik-lib/semantic-release-config/compare/v1.0.6...v1.0.7) (2025-08-31)
 
 
