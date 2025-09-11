@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/eik-lib/semantic-release-config/compare/v1.0.8...v1.0.9) (2025-09-11)
+
+
+### Bug Fixes
+
+* **deps:** update semantic-release monorepo ([#26](https://github.com/eik-lib/semantic-release-config/issues/26)) ([12b559a](https://github.com/eik-lib/semantic-release-config/commit/12b559a67a11a171ab69d094f8af94a0952c04b3))
+
 ## [1.0.8](https://github.com/eik-lib/semantic-release-config/compare/v1.0.7...v1.0.8) (2025-09-06)
 
 
