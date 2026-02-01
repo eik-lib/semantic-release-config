@@ -31,7 +31,7 @@
     "lint:fix": "npm run lint -- --fix"
   },
   "devDependencies": {
-    "@eik/eslint-config": "1.0.23",
+    "@eik/eslint-config": "1.0.25",
     "@eik/prettier-config": "1.0.1",
     "eslint": "9.39.1",
     "prettier": "3.7.4",
