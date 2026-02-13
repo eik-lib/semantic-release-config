@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/eik-lib/semantic-release-config/compare/v1.0.13...v1.0.14) (2026-02-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/github to v12.0.6 ([#43](https://github.com/eik-lib/semantic-release-config/issues/43)) ([657506e](https://github.com/eik-lib/semantic-release-config/commit/657506e82ec01470b569b13fd34903d14d53d253))
+
 ## [1.0.13](https://github.com/eik-lib/semantic-release-config/compare/v1.0.12...v1.0.13) (2026-02-07)
 
 
