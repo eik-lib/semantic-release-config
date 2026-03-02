@@ -1,6 +1,6 @@
 {
   "name": "@eik/semantic-release-config",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Shared semantic release config used in Eik modules",
   "exports": {
     ".": {
