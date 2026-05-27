@@ -1,3 +1,10 @@
+## [1.0.17](https://github.com/eik-lib/semantic-release-config/compare/v1.0.16...v1.0.17) (2026-05-27)
+
+
+### Bug Fixes
+
+* Bump dependencies ([e75460f](https://github.com/eik-lib/semantic-release-config/commit/e75460fe203d2f94d98adcf0b98d688dc302d5b2))
+
 ## [1.0.16](https://github.com/eik-lib/semantic-release-config/compare/v1.0.15...v1.0.16) (2026-05-09)
 
 
